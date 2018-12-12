@@ -1,4 +1,4 @@
-Video que se siguió, para la instalación de AspectJ:
+Video que se siguiÃ³, para la instalaciÃ³n de AspectJ:
 https://www.youtube.com/watch?v=DgF_5bRH9-Q
 
 NetBeans 
@@ -12,6 +12,5 @@ http://plugins.netbeans.org/plugin/56882/aspectj-for-netbeans-umuc-swen-670
 
 AspectJ 
 http://eclipse.org/aspectj/downloads.php
-versión a instalar: aspectj-1.8.13.jar
+versiÃ³n a instalar: aspectj-1.8.13.jar
 
-*Tuve que instalar NetBeans IDE 8.0.2 ya que con la versión 8.2, Aspectj no era compatible
